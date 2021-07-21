@@ -1,0 +1,1 @@
+{"token":"none","client":"none1","tag":"!","case":"false","separator":"\\s+","modules":{"discord.js":["^12.2.0",false],"fstorm":["",true],"jimp":["",true],"libsodium-wrappers":["",false],"opusscript":["",false],"ytdl-core":["",false]},"Bot Intents":{"customData":{"Bot Intents":{"intents":-2}}}}
